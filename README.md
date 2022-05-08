@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro La Rosa</h1>
-<h3 align="center">A Full Stack Developer From Peru 🇵🇪</h3>
+<h3 align="center">A Full Stack Web Developer From Peru 🇵🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandro1709&label=Profile%20views&color=0e75b6&style=flat" alt="alejandro1709" /> </p>
 
