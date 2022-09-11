@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.alejandrolarosa.com](https://www.alejandrolarosa.com)
 
-- 💬 Ask me about **React or Javascript**
+- 💬 Ask me about **React or Javascript / Typescript**
 
 - 📫 How to reach me **alejandrolarosa11apps@hotmail.com**
 
