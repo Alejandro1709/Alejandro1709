@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandro1709&label=Profile%20views&color=0e75b6&style=flat" alt="alejandro1709" /> </p>
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently re-learning **Swift** and **NEST JS**
 
 - 👨‍💻 All of my projects are available at [https://www.alejandrolarosa.com](https://www.alejandrolarosa.com)
 
