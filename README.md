@@ -16,6 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alejandro-la-rosa-4497a995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-la-rosa-4497a995" height="30" width="40" /></a>
-<a href="https://instagram.com/alejandrope.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alejandrope.js" height="30" width="40" /></a>
+<a href="https://instagram.com/alefsdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alejandrope.js" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alejandro170999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alejandro170999" height="30" width="40" /></a>
 </p>
